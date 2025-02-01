@@ -1,0 +1,116 @@
+*{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 120%;
+    width: 80%;
+    margin: 0 auto;
+}
+.bg-img{
+    background-image: url(image\ 5\ \(3\).png);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 797px;
+}
+
+body{
+    background-color: black;
+}
+
+a{
+    color: white;
+    font-size: 20px;
+}
+
+.ul-list{
+    display: flex;
+    justify-content: center;
+    background-color: #222222;
+    gap: 117px;
+    padding: 15px;
+}
+.button-pc{
+    width: 235px;
+    height: 73px;
+    background-color:#F1A900 ;
+    font-size: 40px;
+    border: 0;
+    margin-top: 374px;
+}
+.console{
+    width: 235px;
+    border: 0;
+    height: 73px;
+    background-color: black ;
+    font-size: 40px;
+    color: white; 
+    margin-top: 374px;
+}
+.buttonn{
+    display: flex;
+    justify-content: center;
+    gap: 82px;
+    align-items: center;
+}
+.erangel{
+    font-size: 64px;
+    color: white;
+    padding-top:  40px;
+    padding-bottom: 40px;
+    width: 966px;
+    margin: 0 auto;
+    margin-top: 31px;
+    background: #F1A90054;
+
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.pubg{
+    width: 56px;
+    height: 46px;
+}
+.internet-english{
+  display: flex;
+  margin-left: 750px;
+}
+.english{
+    color: white;
+    font-size: 20px;
+}
+.play{
+    width: 192px;
+    height: 82px;
+    background-color: #F1A900;
+    font-size: 20px;
+    font-weight: bold;
+    border: 0;
+    margin-left:44px;
+}
+.internet{
+    width: 30px;
+    height: 30px;
+}
+.internet-father{
+    display: flex;
+    margin-top: 24px;
+    gap: 14px;
+}
+.logos{
+    display: flex;
+    gap: 52px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
